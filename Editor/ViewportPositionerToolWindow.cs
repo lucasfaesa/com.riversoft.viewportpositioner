@@ -63,7 +63,7 @@ namespace RiverSoft.Editor
 
         private void FindExistingInstance()
         {
-            existingVP = FindObjectOfType<ViewportPositioner>();
+            existingVP = FindFirstObjectByType<ViewportPositioner>();
         }
 
         private void CreateVP()
