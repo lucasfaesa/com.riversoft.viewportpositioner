@@ -1,4 +1,4 @@
-using Sirenix.OdinInspector;
+using NaughtyAttributes;
 using UnityEngine;
 
 namespace RiverSoft
@@ -23,7 +23,7 @@ namespace RiverSoft
         [SerializeField] private Transform target;
         [InfoBox("Optional: Will get the center of the object based on its mesh")]
         [SerializeField] private Renderer referenceRenderer;
-        [InfoBox("Optional: Will get the center of the object based on its collider, need to check \"useColliderBounds\"", InfoMessageType.Info)]
+        [InfoBox("Optional: Will get the center of the object based on its collider, need to check \"useColliderBounds\"")]
         [SerializeField] private Collider referenceCollider;
         [Header("Settings")]
         [SerializeField] private bool useColliderBounds = false;
