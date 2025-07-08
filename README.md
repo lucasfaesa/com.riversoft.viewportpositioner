@@ -19,4 +19,6 @@ https://youtu.be/H90OtWhq6Uw
 ## Installation
 
 Via Unity Package Manager:
+```
 com.riversoft.viewportpositioner
+```
