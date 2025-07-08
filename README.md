@@ -20,5 +20,5 @@ https://youtu.be/H90OtWhq6Uw
 
 Via Unity Package Manager:
 ```
-https://github.com/lucasfaesa/com.riversoft.viewportpositioner
+https://github.com/lucasfaesa/com.riversoft.viewportpositioner.git
 ```
