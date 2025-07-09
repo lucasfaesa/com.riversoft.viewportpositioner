@@ -22,3 +22,6 @@ Via Unity Package Manager:
 ```
 https://github.com/lucasfaesa/com.riversoft.viewportpositioner.git
 ```
+## Dependencies
+* [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) - com.dbrizov.naughtyattributes - https://github.com/dbrizov/NaughtyAttributes.git#upm
+
