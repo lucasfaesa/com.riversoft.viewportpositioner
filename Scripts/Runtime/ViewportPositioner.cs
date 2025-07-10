@@ -1,7 +1,7 @@
 using NaughtyAttributes;
 using UnityEngine;
 
-namespace RiverSoft.Editor
+namespace RiverSoft
 {
     /// <summary>
     /// ViewportPositioner positions a target Transform in world space based on a specified viewport anchor point and depth.

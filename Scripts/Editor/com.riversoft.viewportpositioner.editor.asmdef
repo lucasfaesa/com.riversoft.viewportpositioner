@@ -1,0 +1,16 @@
+{
+    "name": "com.riversoft.viewportpositioner.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:290d2df19de265440a582f12529f9f2e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
